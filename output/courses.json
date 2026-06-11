@@ -1,0 +1,5750 @@
+[
+  {
+    "id": "CPSC_V 100-101",
+    "courseCode": "CPSC_V 100",
+    "section": "101",
+    "title": "Computational Thinking",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "startMinute": 840,
+        "endMinute": 900,
+        "building": "SWNG",
+        "room": "222",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 100-L1A",
+    "courseCode": "CPSC_V 100",
+    "section": "L1A",
+    "title": "Computational Thinking",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 600,
+        "endMinute": 660,
+        "building": "ICCS",
+        "room": "X050",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 100-L1B",
+    "courseCode": "CPSC_V 100",
+    "section": "L1B",
+    "title": "Computational Thinking",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 660,
+        "endMinute": 720,
+        "building": "ICCS",
+        "room": "X050",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 100-L1C",
+    "courseCode": "CPSC_V 100",
+    "section": "L1C",
+    "title": "Computational Thinking",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 720,
+        "endMinute": 780,
+        "building": "ICCS",
+        "room": "X050",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 100-L1D",
+    "courseCode": "CPSC_V 100",
+    "section": "L1D",
+    "title": "Computational Thinking",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 960,
+        "endMinute": 1020,
+        "building": "ICCS",
+        "room": "X050",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 100-L1E",
+    "courseCode": "CPSC_V 100",
+    "section": "L1E",
+    "title": "Computational Thinking",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 840,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "X050",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 103-101",
+    "courseCode": "CPSC_V 103",
+    "section": "101",
+    "title": "Introduction to Systematic Program Design",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          2,
+          4
+        ],
+        "startMinute": 570,
+        "endMinute": 660,
+        "building": "FSC",
+        "room": "1005",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 103-102",
+    "courseCode": "CPSC_V 103",
+    "section": "102",
+    "title": "Introduction to Systematic Program Design",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          2,
+          4
+        ],
+        "startMinute": 840,
+        "endMinute": 930,
+        "building": "FSC",
+        "room": "1005",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 103-T1A",
+    "courseCode": "CPSC_V 103",
+    "section": "T1A",
+    "title": "Introduction to Systematic Program Design",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 540,
+        "endMinute": 600,
+        "building": "ICCS",
+        "room": "X050",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 103-T1B",
+    "courseCode": "CPSC_V 103",
+    "section": "T1B",
+    "title": "Introduction to Systematic Program Design",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 600,
+        "endMinute": 660,
+        "building": "ICCS",
+        "room": "X050",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 103-T1C",
+    "courseCode": "CPSC_V 103",
+    "section": "T1C",
+    "title": "Introduction to Systematic Program Design",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 780,
+        "endMinute": 840,
+        "building": "ICCS",
+        "room": "X050",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 103-T1D",
+    "courseCode": "CPSC_V 103",
+    "section": "T1D",
+    "title": "Introduction to Systematic Program Design",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 720,
+        "endMinute": 780,
+        "building": "ICCS",
+        "room": "X050",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 103-T1E",
+    "courseCode": "CPSC_V 103",
+    "section": "T1E",
+    "title": "Introduction to Systematic Program Design",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 900,
+        "endMinute": 960,
+        "building": "ICCS",
+        "room": "X050",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 103-T1G",
+    "courseCode": "CPSC_V 103",
+    "section": "T1G",
+    "title": "Introduction to Systematic Program Design",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 660,
+        "endMinute": 720,
+        "building": "ICCS",
+        "room": "X050",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 103-T1H",
+    "courseCode": "CPSC_V 103",
+    "section": "T1H",
+    "title": "Introduction to Systematic Program Design",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 510,
+        "endMinute": 570,
+        "building": "ICCS",
+        "room": "X050",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 103-T1J",
+    "courseCode": "CPSC_V 103",
+    "section": "T1J",
+    "title": "Introduction to Systematic Program Design",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 1080,
+        "endMinute": 1140,
+        "building": "ICCS",
+        "room": "X050",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 103-T1K",
+    "courseCode": "CPSC_V 103",
+    "section": "T1K",
+    "title": "Introduction to Systematic Program Design",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 720,
+        "endMinute": 780,
+        "building": "ICCS",
+        "room": "X050",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 103-T1L",
+    "courseCode": "CPSC_V 103",
+    "section": "T1L",
+    "title": "Introduction to Systematic Program Design",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 960,
+        "endMinute": 1020,
+        "building": "ICCS",
+        "room": "X050",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 103-T1M",
+    "courseCode": "CPSC_V 103",
+    "section": "T1M",
+    "title": "Introduction to Systematic Program Design",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 780,
+        "endMinute": 840,
+        "building": "ICCS",
+        "room": "X050",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 103-T1P",
+    "courseCode": "CPSC_V 103",
+    "section": "T1P",
+    "title": "Introduction to Systematic Program Design",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 1020,
+        "endMinute": 1080,
+        "building": "ICCS",
+        "room": "X050",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 103-T1T",
+    "courseCode": "CPSC_V 103",
+    "section": "T1T",
+    "title": "Introduction to Systematic Program Design",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 540,
+        "endMinute": 600,
+        "building": "ICCS",
+        "room": "X350",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 103-T1U",
+    "courseCode": "CPSC_V 103",
+    "section": "T1U",
+    "title": "Introduction to Systematic Program Design",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 840,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "X050",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-101",
+    "courseCode": "CPSC_V 110",
+    "section": "101",
+    "title": "Computation, Programs, and Programming",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2,
+          4
+        ],
+        "startMinute": 570,
+        "endMinute": 660,
+        "building": "LIFE",
+        "room": "2201",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-102",
+    "courseCode": "CPSC_V 110",
+    "section": "102",
+    "title": "Computation, Programs, and Programming",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2,
+          4
+        ],
+        "startMinute": 660,
+        "endMinute": 750,
+        "building": "MCML",
+        "room": "360",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-103",
+    "courseCode": "CPSC_V 110",
+    "section": "103",
+    "title": "Computation, Programs, and Programming",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2,
+          4
+        ],
+        "startMinute": 930,
+        "endMinute": 1020,
+        "building": "HENN",
+        "room": "202",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-L11",
+    "courseCode": "CPSC_V 110",
+    "section": "L11",
+    "title": "Computation, Programs, and Programming",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 720,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "X250",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-L12",
+    "courseCode": "CPSC_V 110",
+    "section": "L12",
+    "title": "Computation, Programs, and Programming",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 900,
+        "endMinute": 1080,
+        "building": "ICCS",
+        "room": "X250",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-L13",
+    "courseCode": "CPSC_V 110",
+    "section": "L13",
+    "title": "Computation, Programs, and Programming",
+    "type": "Laboratory",
+    "status": "Closed",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 900,
+        "endMinute": 1080,
+        "building": "ICCS",
+        "room": "X260",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-L14",
+    "courseCode": "CPSC_V 110",
+    "section": "L14",
+    "title": "Computation, Programs, and Programming",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 540,
+        "endMinute": 720,
+        "building": "ICCS",
+        "room": "X250",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-L15",
+    "courseCode": "CPSC_V 110",
+    "section": "L15",
+    "title": "Computation, Programs, and Programming",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 720,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "X250",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-L16",
+    "courseCode": "CPSC_V 110",
+    "section": "L16",
+    "title": "Computation, Programs, and Programming",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 900,
+        "endMinute": 1080,
+        "building": "ICCS",
+        "room": "X250",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-L17",
+    "courseCode": "CPSC_V 110",
+    "section": "L17",
+    "title": "Computation, Programs, and Programming",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 1080,
+        "endMinute": 1260,
+        "building": "ICCS",
+        "room": "X250",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-L18",
+    "courseCode": "CPSC_V 110",
+    "section": "L18",
+    "title": "Computation, Programs, and Programming",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 540,
+        "endMinute": 720,
+        "building": "ICCS",
+        "room": "X250",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-L19",
+    "courseCode": "CPSC_V 110",
+    "section": "L19",
+    "title": "Computation, Programs, and Programming",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 720,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "X250",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-L1A",
+    "courseCode": "CPSC_V 110",
+    "section": "L1A",
+    "title": "Computation, Programs, and Programming",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 1080,
+        "endMinute": 1260,
+        "building": "ICCS",
+        "room": "X250",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-L1B",
+    "courseCode": "CPSC_V 110",
+    "section": "L1B",
+    "title": "Computation, Programs, and Programming",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 540,
+        "endMinute": 720,
+        "building": "ICCS",
+        "room": "X250",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-L1C",
+    "courseCode": "CPSC_V 110",
+    "section": "L1C",
+    "title": "Computation, Programs, and Programming",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 720,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "X250",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-L1D",
+    "courseCode": "CPSC_V 110",
+    "section": "L1D",
+    "title": "Computation, Programs, and Programming",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 900,
+        "endMinute": 1080,
+        "building": "ICCS",
+        "room": "X260",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-L1E",
+    "courseCode": "CPSC_V 110",
+    "section": "L1E",
+    "title": "Computation, Programs, and Programming",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 1080,
+        "endMinute": 1260,
+        "building": "ICCS",
+        "room": "X250",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-L1F",
+    "courseCode": "CPSC_V 110",
+    "section": "L1F",
+    "title": "Computation, Programs, and Programming",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 540,
+        "endMinute": 720,
+        "building": "ICCS",
+        "room": "X250",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-L1G",
+    "courseCode": "CPSC_V 110",
+    "section": "L1G",
+    "title": "Computation, Programs, and Programming",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 720,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "X260",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-L1H",
+    "courseCode": "CPSC_V 110",
+    "section": "L1H",
+    "title": "Computation, Programs, and Programming",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 900,
+        "endMinute": 1080,
+        "building": "ICCS",
+        "room": "X260",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-L1J",
+    "courseCode": "CPSC_V 110",
+    "section": "L1J",
+    "title": "Computation, Programs, and Programming",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 540,
+        "endMinute": 720,
+        "building": "ICCS",
+        "room": "X250",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-L1L",
+    "courseCode": "CPSC_V 110",
+    "section": "L1L",
+    "title": "Computation, Programs, and Programming",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 900,
+        "endMinute": 1080,
+        "building": "ICCS",
+        "room": "X250",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-L1M",
+    "courseCode": "CPSC_V 110",
+    "section": "L1M",
+    "title": "Computation, Programs, and Programming",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 1080,
+        "endMinute": 1260,
+        "building": "ICCS",
+        "room": "X250",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-L1N",
+    "courseCode": "CPSC_V 110",
+    "section": "L1N",
+    "title": "Computation, Programs, and Programming",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 540,
+        "endMinute": 720,
+        "building": "ICCS",
+        "room": "X260",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-L1P",
+    "courseCode": "CPSC_V 110",
+    "section": "L1P",
+    "title": "Computation, Programs, and Programming",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 900,
+        "endMinute": 1080,
+        "building": "ICCS",
+        "room": "X260",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-L1R",
+    "courseCode": "CPSC_V 110",
+    "section": "L1R",
+    "title": "Computation, Programs, and Programming",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 540,
+        "endMinute": 720,
+        "building": "ICCS",
+        "room": "X260",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-L1U",
+    "courseCode": "CPSC_V 110",
+    "section": "L1U",
+    "title": "Computation, Programs, and Programming",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 540,
+        "endMinute": 720,
+        "building": "ICCS",
+        "room": "X260",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-L1W",
+    "courseCode": "CPSC_V 110",
+    "section": "L1W",
+    "title": "Computation, Programs, and Programming",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 900,
+        "endMinute": 1080,
+        "building": "ICCS",
+        "room": "X250",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 110-L1Y",
+    "courseCode": "CPSC_V 110",
+    "section": "L1Y",
+    "title": "Computation, Programs, and Programming",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 540,
+        "endMinute": 720,
+        "building": "ICCS",
+        "room": "X260",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-101",
+    "courseCode": "CPSC_V 121",
+    "section": "101",
+    "title": "Models of Computation",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2,
+          4
+        ],
+        "startMinute": 570,
+        "endMinute": 660,
+        "building": "SHRM",
+        "room": "B1001",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-102",
+    "courseCode": "CPSC_V 121",
+    "section": "102",
+    "title": "Models of Computation",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2,
+          4
+        ],
+        "startMinute": 840,
+        "endMinute": 930,
+        "building": "SWNG",
+        "room": "221",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-L12",
+    "courseCode": "CPSC_V 121",
+    "section": "L12",
+    "title": "Models of Computation",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 660,
+        "endMinute": 780,
+        "building": "ICCS",
+        "room": "011",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-L13",
+    "courseCode": "CPSC_V 121",
+    "section": "L13",
+    "title": "Models of Computation",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 1020,
+        "endMinute": 1140,
+        "building": "ICCS",
+        "room": "011",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-L14",
+    "courseCode": "CPSC_V 121",
+    "section": "L14",
+    "title": "Models of Computation",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 1020,
+        "endMinute": 1140,
+        "building": "ICCS",
+        "room": "011",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-L1A",
+    "courseCode": "CPSC_V 121",
+    "section": "L1A",
+    "title": "Models of Computation",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 900,
+        "endMinute": 1020,
+        "building": "ICCS",
+        "room": "011",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-L1B",
+    "courseCode": "CPSC_V 121",
+    "section": "L1B",
+    "title": "Models of Computation",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 780,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "011",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-L1C",
+    "courseCode": "CPSC_V 121",
+    "section": "L1C",
+    "title": "Models of Computation",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 1020,
+        "endMinute": 1140,
+        "building": "ICCS",
+        "room": "011",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-L1D",
+    "courseCode": "CPSC_V 121",
+    "section": "L1D",
+    "title": "Models of Computation",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 780,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "011",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-L1E",
+    "courseCode": "CPSC_V 121",
+    "section": "L1E",
+    "title": "Models of Computation",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 780,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "011",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-L1F",
+    "courseCode": "CPSC_V 121",
+    "section": "L1F",
+    "title": "Models of Computation",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 900,
+        "endMinute": 1020,
+        "building": "ICCS",
+        "room": "011",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-L1G",
+    "courseCode": "CPSC_V 121",
+    "section": "L1G",
+    "title": "Models of Computation",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 780,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "011",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-L1H",
+    "courseCode": "CPSC_V 121",
+    "section": "L1H",
+    "title": "Models of Computation",
+    "type": "Laboratory",
+    "status": "Closed",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 540,
+        "endMinute": 660,
+        "building": "ICCS",
+        "room": "011",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-L1J",
+    "courseCode": "CPSC_V 121",
+    "section": "L1J",
+    "title": "Models of Computation",
+    "type": "Laboratory",
+    "status": "Closed",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 540,
+        "endMinute": 660,
+        "building": "ICCS",
+        "room": "011",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-L1K",
+    "courseCode": "CPSC_V 121",
+    "section": "L1K",
+    "title": "Models of Computation",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 660,
+        "endMinute": 780,
+        "building": "ICCS",
+        "room": "011",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-L1L",
+    "courseCode": "CPSC_V 121",
+    "section": "L1L",
+    "title": "Models of Computation",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 900,
+        "endMinute": 1020,
+        "building": "ICCS",
+        "room": "011",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-L1M",
+    "courseCode": "CPSC_V 121",
+    "section": "L1M",
+    "title": "Models of Computation",
+    "type": "Laboratory",
+    "status": "Closed",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 540,
+        "endMinute": 660,
+        "building": "ICCS",
+        "room": "011",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-L1P",
+    "courseCode": "CPSC_V 121",
+    "section": "L1P",
+    "title": "Models of Computation",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 900,
+        "endMinute": 1020,
+        "building": "ICCS",
+        "room": "011",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-L1Q",
+    "courseCode": "CPSC_V 121",
+    "section": "L1Q",
+    "title": "Models of Computation",
+    "type": "Laboratory",
+    "status": "Closed",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 1020,
+        "endMinute": 1140,
+        "building": "ICCS",
+        "room": "011",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-L1R",
+    "courseCode": "CPSC_V 121",
+    "section": "L1R",
+    "title": "Models of Computation",
+    "type": "Laboratory",
+    "status": "Closed",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 540,
+        "endMinute": 660,
+        "building": "ICCS",
+        "room": "011",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-L1S",
+    "courseCode": "CPSC_V 121",
+    "section": "L1S",
+    "title": "Models of Computation",
+    "type": "Laboratory",
+    "status": "Closed",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 1020,
+        "endMinute": 1140,
+        "building": "ICCS",
+        "room": "011",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-L1T",
+    "courseCode": "CPSC_V 121",
+    "section": "L1T",
+    "title": "Models of Computation",
+    "type": "Laboratory",
+    "status": "Closed",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 900,
+        "endMinute": 1020,
+        "building": "ICCS",
+        "room": "011",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-L1U",
+    "courseCode": "CPSC_V 121",
+    "section": "L1U",
+    "title": "Models of Computation",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 540,
+        "endMinute": 660,
+        "building": "ICCS",
+        "room": "011",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-L1V",
+    "courseCode": "CPSC_V 121",
+    "section": "L1V",
+    "title": "Models of Computation",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 660,
+        "endMinute": 780,
+        "building": "ICCS",
+        "room": "011",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-L1X",
+    "courseCode": "CPSC_V 121",
+    "section": "L1X",
+    "title": "Models of Computation",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 660,
+        "endMinute": 780,
+        "building": "ICCS",
+        "room": "011",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-L1Y",
+    "courseCode": "CPSC_V 121",
+    "section": "L1Y",
+    "title": "Models of Computation",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 780,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "011",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-L1Z",
+    "courseCode": "CPSC_V 121",
+    "section": "L1Z",
+    "title": "Models of Computation",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 660,
+        "endMinute": 780,
+        "building": "ICCS",
+        "room": "011",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-T1A",
+    "courseCode": "CPSC_V 121",
+    "section": "T1A",
+    "title": "Models of Computation",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 540,
+        "endMinute": 600,
+        "building": "MCLD",
+        "room": "3008",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-T1B",
+    "courseCode": "CPSC_V 121",
+    "section": "T1B",
+    "title": "Models of Computation",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 960,
+        "endMinute": 1020,
+        "building": "MCML",
+        "room": "158",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-T1C",
+    "courseCode": "CPSC_V 121",
+    "section": "T1C",
+    "title": "Models of Computation",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 1080,
+        "endMinute": 1140,
+        "building": "MCML",
+        "room": "158",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-T1D",
+    "courseCode": "CPSC_V 121",
+    "section": "T1D",
+    "title": "Models of Computation",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 900,
+        "endMinute": 960,
+        "building": "MCLD",
+        "room": "3008",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-T1E",
+    "courseCode": "CPSC_V 121",
+    "section": "T1E",
+    "title": "Models of Computation",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 660,
+        "endMinute": 720,
+        "building": "SWNG",
+        "room": "409",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-T1F",
+    "courseCode": "CPSC_V 121",
+    "section": "T1F",
+    "title": "Models of Computation",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 720,
+        "endMinute": 780,
+        "building": "MCLD",
+        "room": "3008",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-T1G",
+    "courseCode": "CPSC_V 121",
+    "section": "T1G",
+    "title": "Models of Computation",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 960,
+        "endMinute": 1020,
+        "building": "MCLD",
+        "room": "3008",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-T1H",
+    "courseCode": "CPSC_V 121",
+    "section": "T1H",
+    "title": "Models of Computation",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 840,
+        "endMinute": 900,
+        "building": "SWNG",
+        "room": "105",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-T1I",
+    "courseCode": "CPSC_V 121",
+    "section": "T1I",
+    "title": "Models of Computation",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 660,
+        "endMinute": 720,
+        "building": "EOS",
+        "room": "135",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-T1J",
+    "courseCode": "CPSC_V 121",
+    "section": "T1J",
+    "title": "Models of Computation",
+    "type": "Discussion",
+    "status": "Closed",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 900,
+        "endMinute": 960,
+        "building": "MCLD",
+        "room": "3018",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-T1K",
+    "courseCode": "CPSC_V 121",
+    "section": "T1K",
+    "title": "Models of Computation",
+    "type": "Discussion",
+    "status": "Closed",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 1080,
+        "endMinute": 1140,
+        "building": "MCML",
+        "room": "158",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-T1L",
+    "courseCode": "CPSC_V 121",
+    "section": "T1L",
+    "title": "Models of Computation",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 660,
+        "endMinute": 720,
+        "building": "SWNG",
+        "room": "207",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-T1M",
+    "courseCode": "CPSC_V 121",
+    "section": "T1M",
+    "title": "Models of Computation",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 660,
+        "endMinute": 720,
+        "building": "SWNG",
+        "room": "107",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 121-T1P",
+    "courseCode": "CPSC_V 121",
+    "section": "T1P",
+    "title": "Models of Computation",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 600,
+        "endMinute": 660,
+        "building": "MCLD",
+        "room": "3008",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 203-101",
+    "courseCode": "CPSC_V 203",
+    "section": "101",
+    "title": "Programming, Problem Solving, and Algorithms",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          2,
+          4
+        ],
+        "startMinute": 930,
+        "endMinute": 1020,
+        "building": "ESB",
+        "room": "1012",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 203-L1A",
+    "courseCode": "CPSC_V 203",
+    "section": "L1A",
+    "title": "Programming, Problem Solving, and Algorithms",
+    "type": "Discussion",
+    "status": "Closed",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 660,
+        "endMinute": 750,
+        "building": "ICCS",
+        "room": "X351",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 203-L1B",
+    "courseCode": "CPSC_V 203",
+    "section": "L1B",
+    "title": "Programming, Problem Solving, and Algorithms",
+    "type": "Discussion",
+    "status": "Closed",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 540,
+        "endMinute": 630,
+        "building": "ICCS",
+        "room": "X351",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 203-L1C",
+    "courseCode": "CPSC_V 203",
+    "section": "L1C",
+    "title": "Programming, Problem Solving, and Algorithms",
+    "type": "Discussion",
+    "status": "Closed",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 630,
+        "endMinute": 720,
+        "building": "ICCS",
+        "room": "X351",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 203-L1D",
+    "courseCode": "CPSC_V 203",
+    "section": "L1D",
+    "title": "Programming, Problem Solving, and Algorithms",
+    "type": "Discussion",
+    "status": "Closed",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 570,
+        "endMinute": 660,
+        "building": "ICCS",
+        "room": "X350",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 203-L1E",
+    "courseCode": "CPSC_V 203",
+    "section": "L1E",
+    "title": "Programming, Problem Solving, and Algorithms",
+    "type": "Discussion",
+    "status": "Closed",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 570,
+        "endMinute": 660,
+        "building": "ICCS",
+        "room": "X351",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 203-L1F",
+    "courseCode": "CPSC_V 203",
+    "section": "L1F",
+    "title": "Programming, Problem Solving, and Algorithms",
+    "type": "Discussion",
+    "status": "Closed",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 1080,
+        "endMinute": 1170,
+        "building": "ICCS",
+        "room": "X351",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 210-101",
+    "courseCode": "CPSC_V 210",
+    "section": "101",
+    "title": "Software Construction",
+    "type": "Lecture",
+    "status": "Waitlist",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "startMinute": 660,
+        "endMinute": 720,
+        "building": "LIFE",
+        "room": "2201",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 210-102",
+    "courseCode": "CPSC_V 210",
+    "section": "102",
+    "title": "Software Construction",
+    "type": "Lecture",
+    "status": "Waitlist",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "startMinute": 840,
+        "endMinute": 900,
+        "building": "LIFE",
+        "room": "2201",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 210-L1A",
+    "courseCode": "CPSC_V 210",
+    "section": "L1A",
+    "title": "Software Construction",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 660,
+        "endMinute": 780,
+        "building": "ICCS",
+        "room": "014",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 210-L1B",
+    "courseCode": "CPSC_V 210",
+    "section": "L1B",
+    "title": "Software Construction",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 780,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "X050",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 210-L1C",
+    "courseCode": "CPSC_V 210",
+    "section": "L1C",
+    "title": "Software Construction",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 660,
+        "endMinute": 780,
+        "building": "ICCS",
+        "room": "015",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 210-L1D",
+    "courseCode": "CPSC_V 210",
+    "section": "L1D",
+    "title": "Software Construction",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 900,
+        "endMinute": 1020,
+        "building": "ICCS",
+        "room": "015",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 210-L1E",
+    "courseCode": "CPSC_V 210",
+    "section": "L1E",
+    "title": "Software Construction",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 540,
+        "endMinute": 660,
+        "building": "ICCS",
+        "room": "015",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 210-L1F",
+    "courseCode": "CPSC_V 210",
+    "section": "L1F",
+    "title": "Software Construction",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 660,
+        "endMinute": 780,
+        "building": "ICCS",
+        "room": "015",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 210-L1G",
+    "courseCode": "CPSC_V 210",
+    "section": "L1G",
+    "title": "Software Construction",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 540,
+        "endMinute": 660,
+        "building": "ICCS",
+        "room": "015",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 210-L1H",
+    "courseCode": "CPSC_V 210",
+    "section": "L1H",
+    "title": "Software Construction",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 900,
+        "endMinute": 1020,
+        "building": "ICCS",
+        "room": "015",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 210-L1J",
+    "courseCode": "CPSC_V 210",
+    "section": "L1J",
+    "title": "Software Construction",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 900,
+        "endMinute": 1020,
+        "building": "ICCS",
+        "room": "X050",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 210-L1K",
+    "courseCode": "CPSC_V 210",
+    "section": "L1K",
+    "title": "Software Construction",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 540,
+        "endMinute": 660,
+        "building": "ICCS",
+        "room": "X050",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 210-L1L",
+    "courseCode": "CPSC_V 210",
+    "section": "L1L",
+    "title": "Software Construction",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 780,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "015",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 210-L1M",
+    "courseCode": "CPSC_V 210",
+    "section": "L1M",
+    "title": "Software Construction",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 780,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "015",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 210-L1N",
+    "courseCode": "CPSC_V 210",
+    "section": "L1N",
+    "title": "Software Construction",
+    "type": "Laboratory",
+    "status": "Closed",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 900,
+        "endMinute": 1020,
+        "building": "ICCS",
+        "room": "005",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 210-L1P",
+    "courseCode": "CPSC_V 210",
+    "section": "L1P",
+    "title": "Software Construction",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 900,
+        "endMinute": 1020,
+        "building": "ICCS",
+        "room": "015",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 210-L1V",
+    "courseCode": "CPSC_V 210",
+    "section": "L1V",
+    "title": "Software Construction",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 1020,
+        "endMinute": 1140,
+        "building": "ICCS",
+        "room": "005",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 210-L1X",
+    "courseCode": "CPSC_V 210",
+    "section": "L1X",
+    "title": "Software Construction",
+    "type": "Laboratory",
+    "status": "Closed",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 660,
+        "endMinute": 780,
+        "building": "ICCS",
+        "room": "X050",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 210-L1Y",
+    "courseCode": "CPSC_V 210",
+    "section": "L1Y",
+    "title": "Software Construction",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 780,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "015",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 210-L1Z",
+    "courseCode": "CPSC_V 210",
+    "section": "L1Z",
+    "title": "Software Construction",
+    "type": "Laboratory",
+    "status": "Closed",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 1020,
+        "endMinute": 1140,
+        "building": "ICCS",
+        "room": "X360",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 213-101",
+    "courseCode": "CPSC_V 213",
+    "section": "101",
+    "title": "Introduction to Computer Systems",
+    "type": "Lecture",
+    "status": "Waitlist",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2,
+          4
+        ],
+        "startMinute": 750,
+        "endMinute": 840,
+        "building": "FSC",
+        "room": "1005",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 213-102",
+    "courseCode": "CPSC_V 213",
+    "section": "102",
+    "title": "Introduction to Computer Systems",
+    "type": "Lecture",
+    "status": "Waitlist",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2,
+          4
+        ],
+        "startMinute": 1020,
+        "endMinute": 1110,
+        "building": "SHRM",
+        "room": "B1001",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 213-L1A",
+    "courseCode": "CPSC_V 213",
+    "section": "L1A",
+    "title": "Introduction to Computer Systems",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 900,
+        "endMinute": 960,
+        "building": "ICCS",
+        "room": "X251",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      },
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 930,
+        "endMinute": 1050,
+        "building": "ICCS",
+        "room": "X350",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 213-L1B",
+    "courseCode": "CPSC_V 213",
+    "section": "L1B",
+    "title": "Introduction to Computer Systems",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 660,
+        "endMinute": 720,
+        "building": "ICCS",
+        "room": "X251",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      },
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 720,
+        "endMinute": 840,
+        "building": "ICCS",
+        "room": "X251",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 213-L1C",
+    "courseCode": "CPSC_V 213",
+    "section": "L1C",
+    "title": "Introduction to Computer Systems",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 780,
+        "endMinute": 840,
+        "building": "ICCS",
+        "room": "X251",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      },
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 720,
+        "endMinute": 840,
+        "building": "ICCS",
+        "room": "X251",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 213-L1D",
+    "courseCode": "CPSC_V 213",
+    "section": "L1D",
+    "title": "Introduction to Computer Systems",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 600,
+        "endMinute": 660,
+        "building": "ICCS",
+        "room": "X251",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      },
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 780,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "X251",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 213-L1E",
+    "courseCode": "CPSC_V 213",
+    "section": "L1E",
+    "title": "Introduction to Computer Systems",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 960,
+        "endMinute": 1020,
+        "building": "ICCS",
+        "room": "X251",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      },
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 960,
+        "endMinute": 1080,
+        "building": "ICCS",
+        "room": "X251",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 213-L1F",
+    "courseCode": "CPSC_V 213",
+    "section": "L1F",
+    "title": "Introduction to Computer Systems",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 540,
+        "endMinute": 600,
+        "building": "ICCS",
+        "room": "X251",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      },
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 540,
+        "endMinute": 660,
+        "building": "ICCS",
+        "room": "X251",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 213-L1G",
+    "courseCode": "CPSC_V 213",
+    "section": "L1G",
+    "title": "Introduction to Computer Systems",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 660,
+        "endMinute": 780,
+        "building": "ICCS",
+        "room": "X251",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      },
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 660,
+        "endMinute": 720,
+        "building": "ICCS",
+        "room": "X251",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 213-L1H",
+    "courseCode": "CPSC_V 213",
+    "section": "L1H",
+    "title": "Introduction to Computer Systems",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 1020,
+        "endMinute": 1140,
+        "building": "ICCS",
+        "room": "X251",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      },
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 840,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "X251",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 213-L1K",
+    "courseCode": "CPSC_V 213",
+    "section": "L1K",
+    "title": "Introduction to Computer Systems",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 660,
+        "endMinute": 780,
+        "building": "ICCS",
+        "room": "X351",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      },
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 960,
+        "endMinute": 1020,
+        "building": "ICCS",
+        "room": "X251",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 213-L1M",
+    "courseCode": "CPSC_V 213",
+    "section": "L1M",
+    "title": "Introduction to Computer Systems",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 540,
+        "endMinute": 660,
+        "building": "ICCS",
+        "room": "X251",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      },
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 900,
+        "endMinute": 960,
+        "building": "ICCS",
+        "room": "X251",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 213-L1N",
+    "courseCode": "CPSC_V 213",
+    "section": "L1N",
+    "title": "Introduction to Computer Systems",
+    "type": "Laboratory",
+    "status": "Closed",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 960,
+        "endMinute": 1080,
+        "building": "ICCS",
+        "room": "X251",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      },
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 900,
+        "endMinute": 960,
+        "building": "ICCS",
+        "room": "X251",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 213-L1P",
+    "courseCode": "CPSC_V 213",
+    "section": "L1P",
+    "title": "Introduction to Computer Systems",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 540,
+        "endMinute": 600,
+        "building": "ICCS",
+        "room": "X251",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      },
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 600,
+        "endMinute": 720,
+        "building": "ICCS",
+        "room": "X251",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 213-L1Q",
+    "courseCode": "CPSC_V 213",
+    "section": "L1Q",
+    "title": "Introduction to Computer Systems",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 720,
+        "endMinute": 780,
+        "building": "ICCS",
+        "room": "X251",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      },
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 840,
+        "endMinute": 960,
+        "building": "ICCS",
+        "room": "X251",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 213-L1R",
+    "courseCode": "CPSC_V 213",
+    "section": "L1R",
+    "title": "Introduction to Computer Systems",
+    "type": "Laboratory",
+    "status": "Closed",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 840,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "X251",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      },
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 1020,
+        "endMinute": 1140,
+        "building": "ICCS",
+        "room": "X251",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 221-101",
+    "courseCode": "CPSC_V 221",
+    "section": "101",
+    "title": "Basic Algorithms and Data Structures",
+    "type": "Lecture",
+    "status": "Waitlist",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "startMinute": 840,
+        "endMinute": 900,
+        "building": "FSC",
+        "room": "1005",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 221-102",
+    "courseCode": "CPSC_V 221",
+    "section": "102",
+    "title": "Basic Algorithms and Data Structures",
+    "type": "Lecture",
+    "status": "Waitlist",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "startMinute": 900,
+        "endMinute": 960,
+        "building": "FSC",
+        "room": "1005",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 221-L1A",
+    "courseCode": "CPSC_V 221",
+    "section": "L1A",
+    "title": "Basic Algorithms and Data Structures",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 660,
+        "endMinute": 780,
+        "building": "ICCS",
+        "room": "X350",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 221-L1B",
+    "courseCode": "CPSC_V 221",
+    "section": "L1B",
+    "title": "Basic Algorithms and Data Structures",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 660,
+        "endMinute": 780,
+        "building": "ICCS",
+        "room": "X351",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 221-L1C",
+    "courseCode": "CPSC_V 221",
+    "section": "L1C",
+    "title": "Basic Algorithms and Data Structures",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 1020,
+        "endMinute": 1140,
+        "building": "ICCS",
+        "room": "X350",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 221-L1D",
+    "courseCode": "CPSC_V 221",
+    "section": "L1D",
+    "title": "Basic Algorithms and Data Structures",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 780,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "X350",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 221-L1E",
+    "courseCode": "CPSC_V 221",
+    "section": "L1E",
+    "title": "Basic Algorithms and Data Structures",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 1080,
+        "endMinute": 1200,
+        "building": "ICCS",
+        "room": "X350",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 221-L1F",
+    "courseCode": "CPSC_V 221",
+    "section": "L1F",
+    "title": "Basic Algorithms and Data Structures",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 960,
+        "endMinute": 1080,
+        "building": "ICCS",
+        "room": "X350",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 221-L1G",
+    "courseCode": "CPSC_V 221",
+    "section": "L1G",
+    "title": "Basic Algorithms and Data Structures",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 660,
+        "endMinute": 780,
+        "building": "MCML",
+        "room": "256",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 221-L1H",
+    "courseCode": "CPSC_V 221",
+    "section": "L1H",
+    "title": "Basic Algorithms and Data Structures",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 1020,
+        "endMinute": 1140,
+        "building": "FSC",
+        "room": "1002",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 221-L1J",
+    "courseCode": "CPSC_V 221",
+    "section": "L1J",
+    "title": "Basic Algorithms and Data Structures",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 660,
+        "endMinute": 780,
+        "building": "ICCS",
+        "room": "X350",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 221-L1K",
+    "courseCode": "CPSC_V 221",
+    "section": "L1K",
+    "title": "Basic Algorithms and Data Structures",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 960,
+        "endMinute": 1080,
+        "building": "MCML",
+        "room": "256",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 221-L1N",
+    "courseCode": "CPSC_V 221",
+    "section": "L1N",
+    "title": "Basic Algorithms and Data Structures",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 840,
+        "endMinute": 960,
+        "building": "ICCS",
+        "room": "246",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 221-L1P",
+    "courseCode": "CPSC_V 221",
+    "section": "L1P",
+    "title": "Basic Algorithms and Data Structures",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 660,
+        "endMinute": 780,
+        "building": "MCML",
+        "room": "260",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 221-L1R",
+    "courseCode": "CPSC_V 221",
+    "section": "L1R",
+    "title": "Basic Algorithms and Data Structures",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 840,
+        "endMinute": 960,
+        "building": "SCRF",
+        "room": "205",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 259-101",
+    "courseCode": "CPSC_V 259",
+    "section": "101",
+    "title": "Data Structures and Algorithms for Electrical Engineers",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "startMinute": 480,
+        "endMinute": 540,
+        "building": "FSC",
+        "room": "1005",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 259-L1A",
+    "courseCode": "CPSC_V 259",
+    "section": "L1A",
+    "title": "Data Structures and Algorithms for Electrical Engineers",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 540,
+        "endMinute": 660,
+        "building": "ICCS",
+        "room": "X351",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 259-L1B",
+    "courseCode": "CPSC_V 259",
+    "section": "L1B",
+    "title": "Data Structures and Algorithms for Electrical Engineers",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 780,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "X351",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 259-L1C",
+    "courseCode": "CPSC_V 259",
+    "section": "L1C",
+    "title": "Data Structures and Algorithms for Electrical Engineers",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 1050,
+        "endMinute": 1170,
+        "building": "ICCS",
+        "room": "X351",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 259-L1D",
+    "courseCode": "CPSC_V 259",
+    "section": "L1D",
+    "title": "Data Structures and Algorithms for Electrical Engineers",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 780,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "X351",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 259-L1E",
+    "courseCode": "CPSC_V 259",
+    "section": "L1E",
+    "title": "Data Structures and Algorithms for Electrical Engineers",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 900,
+        "endMinute": 1020,
+        "building": "ICCS",
+        "room": "X351",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 259-L1F",
+    "courseCode": "CPSC_V 259",
+    "section": "L1F",
+    "title": "Data Structures and Algorithms for Electrical Engineers",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 540,
+        "endMinute": 660,
+        "building": "ICCS",
+        "room": "X351",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 259-L1G",
+    "courseCode": "CPSC_V 259",
+    "section": "L1G",
+    "title": "Data Structures and Algorithms for Electrical Engineers",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 780,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "X351",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 259-L1H",
+    "courseCode": "CPSC_V 259",
+    "section": "L1H",
+    "title": "Data Structures and Algorithms for Electrical Engineers",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 930,
+        "endMinute": 1050,
+        "building": "ICCS",
+        "room": "X351",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 302-101",
+    "courseCode": "CPSC_V 302",
+    "section": "101",
+    "title": "Numerical Computation for Algebraic Problems",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "startMinute": 780,
+        "endMinute": 840,
+        "building": "DMP",
+        "room": "110",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 304-101",
+    "courseCode": "CPSC_V 304",
+    "section": "101",
+    "title": "Introduction to Relational Databases",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          2,
+          4
+        ],
+        "startMinute": 930,
+        "endMinute": 1020,
+        "building": "SWNG",
+        "room": "222",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 304-103",
+    "courseCode": "CPSC_V 304",
+    "section": "103",
+    "title": "Introduction to Relational Databases",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          3,
+          5
+        ],
+        "startMinute": 930,
+        "endMinute": 1020,
+        "building": "SWNG",
+        "room": "221",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 304-T1A",
+    "courseCode": "CPSC_V 304",
+    "section": "T1A",
+    "title": "Introduction to Relational Databases",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 720,
+        "endMinute": 780,
+        "building": "ICCS",
+        "room": "X350",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 304-T1B",
+    "courseCode": "CPSC_V 304",
+    "section": "T1B",
+    "title": "Introduction to Relational Databases",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 780,
+        "endMinute": 840,
+        "building": "ICCS",
+        "room": "X350",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 304-T1C",
+    "courseCode": "CPSC_V 304",
+    "section": "T1C",
+    "title": "Introduction to Relational Databases",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 660,
+        "endMinute": 720,
+        "building": "ICCS",
+        "room": "X350",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 304-T1D",
+    "courseCode": "CPSC_V 304",
+    "section": "T1D",
+    "title": "Introduction to Relational Databases",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 840,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "X350",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 304-T1E",
+    "courseCode": "CPSC_V 304",
+    "section": "T1E",
+    "title": "Introduction to Relational Databases",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 960,
+        "endMinute": 1020,
+        "building": "ICCS",
+        "room": "X350",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 304-T1F",
+    "courseCode": "CPSC_V 304",
+    "section": "T1F",
+    "title": "Introduction to Relational Databases",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 780,
+        "endMinute": 840,
+        "building": "ICCS",
+        "room": "X350",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 304-T1G",
+    "courseCode": "CPSC_V 304",
+    "section": "T1G",
+    "title": "Introduction to Relational Databases",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 1080,
+        "endMinute": 1140,
+        "building": "ICCS",
+        "room": "X350",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 304-T1H",
+    "courseCode": "CPSC_V 304",
+    "section": "T1H",
+    "title": "Introduction to Relational Databases",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 780,
+        "endMinute": 840,
+        "building": "ICCS",
+        "room": "X350",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 304-T1K",
+    "courseCode": "CPSC_V 304",
+    "section": "T1K",
+    "title": "Introduction to Relational Databases",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 840,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "X350",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 304-T1M",
+    "courseCode": "CPSC_V 304",
+    "section": "T1M",
+    "title": "Introduction to Relational Databases",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 900,
+        "endMinute": 960,
+        "building": "ICCS",
+        "room": "X350",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 304-T1R",
+    "courseCode": "CPSC_V 304",
+    "section": "T1R",
+    "title": "Introduction to Relational Databases",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 600,
+        "endMinute": 660,
+        "building": "ICCS",
+        "room": "X350",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 310-101",
+    "courseCode": "CPSC_V 310",
+    "section": "101",
+    "title": "Introduction to Software Engineering",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2,
+          4
+        ],
+        "startMinute": 930,
+        "endMinute": 1020,
+        "building": "LSK",
+        "room": "201",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 310-102",
+    "courseCode": "CPSC_V 310",
+    "section": "102",
+    "title": "Introduction to Software Engineering",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2,
+          4
+        ],
+        "startMinute": 840,
+        "endMinute": 930,
+        "building": "LSK",
+        "room": "201",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 310-103",
+    "courseCode": "CPSC_V 310",
+    "section": "103",
+    "title": "Introduction to Software Engineering",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": [
+      {
+        "days": [
+          2,
+          4
+        ],
+        "startMinute": 750,
+        "endMinute": 840,
+        "building": "LSK",
+        "room": "201",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 310-L1A",
+    "courseCode": "CPSC_V 310",
+    "section": "L1A",
+    "title": "Introduction to Software Engineering",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": []
+  },
+  {
+    "id": "CPSC_V 310-L1B",
+    "courseCode": "CPSC_V 310",
+    "section": "L1B",
+    "title": "Introduction to Software Engineering",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": []
+  },
+  {
+    "id": "CPSC_V 310-L1C",
+    "courseCode": "CPSC_V 310",
+    "section": "L1C",
+    "title": "Introduction to Software Engineering",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": []
+  },
+  {
+    "id": "CPSC_V 310-L1D",
+    "courseCode": "CPSC_V 310",
+    "section": "L1D",
+    "title": "Introduction to Software Engineering",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": []
+  },
+  {
+    "id": "CPSC_V 310-L1E",
+    "courseCode": "CPSC_V 310",
+    "section": "L1E",
+    "title": "Introduction to Software Engineering",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": []
+  },
+  {
+    "id": "CPSC_V 310-L1F",
+    "courseCode": "CPSC_V 310",
+    "section": "L1F",
+    "title": "Introduction to Software Engineering",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": []
+  },
+  {
+    "id": "CPSC_V 310-L1G",
+    "courseCode": "CPSC_V 310",
+    "section": "L1G",
+    "title": "Introduction to Software Engineering",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": []
+  },
+  {
+    "id": "CPSC_V 310-L1H",
+    "courseCode": "CPSC_V 310",
+    "section": "L1H",
+    "title": "Introduction to Software Engineering",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": []
+  },
+  {
+    "id": "CPSC_V 310-L1J",
+    "courseCode": "CPSC_V 310",
+    "section": "L1J",
+    "title": "Introduction to Software Engineering",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": []
+  },
+  {
+    "id": "CPSC_V 310-L1K",
+    "courseCode": "CPSC_V 310",
+    "section": "L1K",
+    "title": "Introduction to Software Engineering",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": []
+  },
+  {
+    "id": "CPSC_V 310-L1L",
+    "courseCode": "CPSC_V 310",
+    "section": "L1L",
+    "title": "Introduction to Software Engineering",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": []
+  },
+  {
+    "id": "CPSC_V 310-L1M",
+    "courseCode": "CPSC_V 310",
+    "section": "L1M",
+    "title": "Introduction to Software Engineering",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": []
+  },
+  {
+    "id": "CPSC_V 310-L1N",
+    "courseCode": "CPSC_V 310",
+    "section": "L1N",
+    "title": "Introduction to Software Engineering",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": []
+  },
+  {
+    "id": "CPSC_V 310-L1P",
+    "courseCode": "CPSC_V 310",
+    "section": "L1P",
+    "title": "Introduction to Software Engineering",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": []
+  },
+  {
+    "id": "CPSC_V 310-L1Q",
+    "courseCode": "CPSC_V 310",
+    "section": "L1Q",
+    "title": "Introduction to Software Engineering",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": []
+  },
+  {
+    "id": "CPSC_V 310-L1R",
+    "courseCode": "CPSC_V 310",
+    "section": "L1R",
+    "title": "Introduction to Software Engineering",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": []
+  },
+  {
+    "id": "CPSC_V 310-L1S",
+    "courseCode": "CPSC_V 310",
+    "section": "L1S",
+    "title": "Introduction to Software Engineering",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 4,
+    "meetings": []
+  },
+  {
+    "id": "CPSC_V 311-101",
+    "courseCode": "CPSC_V 311",
+    "section": "101",
+    "title": "Definition of Programming Languages",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "startMinute": 600,
+        "endMinute": 660,
+        "building": "IRC",
+        "room": "4",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 311-T1A",
+    "courseCode": "CPSC_V 311",
+    "section": "T1A",
+    "title": "Definition of Programming Languages",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 840,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "X350",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 311-T1B",
+    "courseCode": "CPSC_V 311",
+    "section": "T1B",
+    "title": "Definition of Programming Languages",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 1080,
+        "endMinute": 1140,
+        "building": "ICCS",
+        "room": "X351",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 311-T1C",
+    "courseCode": "CPSC_V 311",
+    "section": "T1C",
+    "title": "Definition of Programming Languages",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 900,
+        "endMinute": 960,
+        "building": "ICCS",
+        "room": "X351",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 311-T1D",
+    "courseCode": "CPSC_V 311",
+    "section": "T1D",
+    "title": "Definition of Programming Languages",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 960,
+        "endMinute": 1020,
+        "building": "ICCS",
+        "room": "X351",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 311-T1E",
+    "courseCode": "CPSC_V 311",
+    "section": "T1E",
+    "title": "Definition of Programming Languages",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 840,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "X350",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 313-101",
+    "courseCode": "CPSC_V 313",
+    "section": "101",
+    "title": "Computer Hardware and Operating Systems",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "startMinute": 960,
+        "endMinute": 1020,
+        "building": "FSC",
+        "room": "1005",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 313-102",
+    "courseCode": "CPSC_V 313",
+    "section": "102",
+    "title": "Computer Hardware and Operating Systems",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "startMinute": 660,
+        "endMinute": 720,
+        "building": "SWNG",
+        "room": "121",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 313-T1A",
+    "courseCode": "CPSC_V 313",
+    "section": "T1A",
+    "title": "Computer Hardware and Operating Systems",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 720,
+        "endMinute": 780,
+        "building": "MCML",
+        "room": "158",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 313-T1B",
+    "courseCode": "CPSC_V 313",
+    "section": "T1B",
+    "title": "Computer Hardware and Operating Systems",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 900,
+        "endMinute": 960,
+        "building": "ORCH",
+        "room": "1001",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 313-T1C",
+    "courseCode": "CPSC_V 313",
+    "section": "T1C",
+    "title": "Computer Hardware and Operating Systems",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 900,
+        "endMinute": 960,
+        "building": "SWNG",
+        "room": "305",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 313-T1D",
+    "courseCode": "CPSC_V 313",
+    "section": "T1D",
+    "title": "Computer Hardware and Operating Systems",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 780,
+        "endMinute": 840,
+        "building": "MCLD",
+        "room": "3008",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 313-T1E",
+    "courseCode": "CPSC_V 313",
+    "section": "T1E",
+    "title": "Computer Hardware and Operating Systems",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 840,
+        "endMinute": 900,
+        "building": "DMP",
+        "room": "301",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 313-T1F",
+    "courseCode": "CPSC_V 313",
+    "section": "T1F",
+    "title": "Computer Hardware and Operating Systems",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 1020,
+        "endMinute": 1080,
+        "building": "MCML",
+        "room": "158",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 313-T1G",
+    "courseCode": "CPSC_V 313",
+    "section": "T1G",
+    "title": "Computer Hardware and Operating Systems",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 600,
+        "endMinute": 660,
+        "building": "SWNG",
+        "room": "409",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 313-T1H",
+    "courseCode": "CPSC_V 313",
+    "section": "T1H",
+    "title": "Computer Hardware and Operating Systems",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 750,
+        "endMinute": 810,
+        "building": "ORCH",
+        "room": "4018",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 313-T1I",
+    "courseCode": "CPSC_V 313",
+    "section": "T1I",
+    "title": "Computer Hardware and Operating Systems",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 600,
+        "endMinute": 660,
+        "building": "SWNG",
+        "room": "109",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 314-101",
+    "courseCode": "CPSC_V 314",
+    "section": "101",
+    "title": "Computer Graphics",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          2,
+          4
+        ],
+        "startMinute": 930,
+        "endMinute": 1020,
+        "building": "MCLD",
+        "room": "2018",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 314-L1A",
+    "courseCode": "CPSC_V 314",
+    "section": "L1A",
+    "title": "Computer Graphics",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 540,
+        "endMinute": 600,
+        "building": "ICCS",
+        "room": "005",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 314-L1B",
+    "courseCode": "CPSC_V 314",
+    "section": "L1B",
+    "title": "Computer Graphics",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 840,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "005",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 314-L1C",
+    "courseCode": "CPSC_V 314",
+    "section": "L1C",
+    "title": "Computer Graphics",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 780,
+        "endMinute": 840,
+        "building": "ICCS",
+        "room": "005",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 314-L1D",
+    "courseCode": "CPSC_V 314",
+    "section": "L1D",
+    "title": "Computer Graphics",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 780,
+        "endMinute": 840,
+        "building": "ICCS",
+        "room": "005",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 314-L1E",
+    "courseCode": "CPSC_V 314",
+    "section": "L1E",
+    "title": "Computer Graphics",
+    "type": "Laboratory",
+    "status": "Closed",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 960,
+        "endMinute": 1020,
+        "building": "ICCS",
+        "room": "005",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 314-L1F",
+    "courseCode": "CPSC_V 314",
+    "section": "L1F",
+    "title": "Computer Graphics",
+    "type": "Laboratory",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 840,
+        "endMinute": 900,
+        "building": "ICCS",
+        "room": "005",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 317-101",
+    "courseCode": "CPSC_V 317",
+    "section": "101",
+    "title": "Introduction to Computer Networking",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "startMinute": 540,
+        "endMinute": 600,
+        "building": "DMP",
+        "room": "310",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 317-102",
+    "courseCode": "CPSC_V 317",
+    "section": "102",
+    "title": "Introduction to Computer Networking",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "startMinute": 900,
+        "endMinute": 960,
+        "building": "LSK",
+        "room": "200",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 317-T1A",
+    "courseCode": "CPSC_V 317",
+    "section": "T1A",
+    "title": "Introduction to Computer Networking",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 960,
+        "endMinute": 1020,
+        "building": "MCLD",
+        "room": "3014",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 317-T1B",
+    "courseCode": "CPSC_V 317",
+    "section": "T1B",
+    "title": "Introduction to Computer Networking",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 1020,
+        "endMinute": 1080,
+        "building": "DMP",
+        "room": "301",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 317-T1C",
+    "courseCode": "CPSC_V 317",
+    "section": "T1C",
+    "title": "Introduction to Computer Networking",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 720,
+        "endMinute": 780,
+        "building": "MCLD",
+        "room": "3008",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 317-T1D",
+    "courseCode": "CPSC_V 317",
+    "section": "T1D",
+    "title": "Introduction to Computer Networking",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 840,
+        "endMinute": 900,
+        "building": "SWNG",
+        "room": "105",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 317-T1E",
+    "courseCode": "CPSC_V 317",
+    "section": "T1E",
+    "title": "Introduction to Computer Networking",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 840,
+        "endMinute": 900,
+        "building": "CEME",
+        "room": "1202",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 317-T1F",
+    "courseCode": "CPSC_V 317",
+    "section": "T1F",
+    "title": "Introduction to Computer Networking",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 960,
+        "endMinute": 1020,
+        "building": "DMP",
+        "room": "301",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 317-T1G",
+    "courseCode": "CPSC_V 317",
+    "section": "T1G",
+    "title": "Introduction to Computer Networking",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 720,
+        "endMinute": 780,
+        "building": "MCLD",
+        "room": "3008",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 317-T1H",
+    "courseCode": "CPSC_V 317",
+    "section": "T1H",
+    "title": "Introduction to Computer Networking",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 720,
+        "endMinute": 780,
+        "building": "CEME",
+        "room": "1215",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 320-101",
+    "courseCode": "CPSC_V 320",
+    "section": "101",
+    "title": "Intermediate Algorithm Design and Analysis",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "startMinute": 900,
+        "endMinute": 960,
+        "building": "SWNG",
+        "room": "222",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 320-102",
+    "courseCode": "CPSC_V 320",
+    "section": "102",
+    "title": "Intermediate Algorithm Design and Analysis",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          1,
+          3,
+          5
+        ],
+        "startMinute": 540,
+        "endMinute": 600,
+        "building": "CHBE",
+        "room": "101",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 320-T1A",
+    "courseCode": "CPSC_V 320",
+    "section": "T1A",
+    "title": "Intermediate Algorithm Design and Analysis",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 1020,
+        "endMinute": 1080,
+        "building": "DMP",
+        "room": "301",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 320-T1B",
+    "courseCode": "CPSC_V 320",
+    "section": "T1B",
+    "title": "Intermediate Algorithm Design and Analysis",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 720,
+        "endMinute": 780,
+        "building": "DMP",
+        "room": "301",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 320-T1C",
+    "courseCode": "CPSC_V 320",
+    "section": "T1C",
+    "title": "Intermediate Algorithm Design and Analysis",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          2
+        ],
+        "startMinute": 930,
+        "endMinute": 990,
+        "building": "DMP",
+        "room": "301",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-01"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 320-T1E",
+    "courseCode": "CPSC_V 320",
+    "section": "T1E",
+    "title": "Intermediate Algorithm Design and Analysis",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          3
+        ],
+        "startMinute": 1020,
+        "endMinute": 1080,
+        "building": "DMP",
+        "room": "301",
+        "startDate": "2026-09-09",
+        "endDate": "2026-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 320-T1F",
+    "courseCode": "CPSC_V 320",
+    "section": "T1F",
+    "title": "Intermediate Algorithm Design and Analysis",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 600,
+        "endMinute": 660,
+        "building": "DMP",
+        "room": "301",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 320-T1G",
+    "courseCode": "CPSC_V 320",
+    "section": "T1G",
+    "title": "Intermediate Algorithm Design and Analysis",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          1
+        ],
+        "startMinute": 780,
+        "endMinute": 840,
+        "building": "DMP",
+        "room": "301",
+        "startDate": "2026-09-14",
+        "endDate": "2026-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 322-101",
+    "courseCode": "CPSC_V 322",
+    "section": "101",
+    "title": "Introduction to Artificial Intelligence",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          2,
+          4
+        ],
+        "startMinute": 1020,
+        "endMinute": 1110,
+        "building": "SWNG",
+        "room": "221",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 330-101",
+    "courseCode": "CPSC_V 330",
+    "section": "101",
+    "title": "Applied Machine Learning",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          2,
+          4
+        ],
+        "startMinute": 930,
+        "endMinute": 1020,
+        "building": "DMP",
+        "room": "310",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 330-102",
+    "courseCode": "CPSC_V 330",
+    "section": "102",
+    "title": "Applied Machine Learning",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          2,
+          4
+        ],
+        "startMinute": 660,
+        "endMinute": 750,
+        "building": "DMP",
+        "room": "310",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 330-103",
+    "courseCode": "CPSC_V 330",
+    "section": "103",
+    "title": "Applied Machine Learning",
+    "type": "Lecture",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          2,
+          4
+        ],
+        "startMinute": 570,
+        "endMinute": 660,
+        "building": "DMP",
+        "room": "310",
+        "startDate": "2026-09-08",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 330-T1A",
+    "courseCode": "CPSC_V 330",
+    "section": "T1A",
+    "title": "Applied Machine Learning",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 540,
+        "endMinute": 600,
+        "building": "MCLD",
+        "room": "3008",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 330-T1B",
+    "courseCode": "CPSC_V 330",
+    "section": "T1B",
+    "title": "Applied Machine Learning",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 660,
+        "endMinute": 720,
+        "building": "FSC",
+        "room": "1611",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 330-T1C",
+    "courseCode": "CPSC_V 330",
+    "section": "T1C",
+    "title": "Applied Machine Learning",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 840,
+        "endMinute": 900,
+        "building": "CEME",
+        "room": "1215",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 330-T1D",
+    "courseCode": "CPSC_V 330",
+    "section": "T1D",
+    "title": "Applied Machine Learning",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 900,
+        "endMinute": 960,
+        "building": "CEME",
+        "room": "1215",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 330-T1E",
+    "courseCode": "CPSC_V 330",
+    "section": "T1E",
+    "title": "Applied Machine Learning",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 1020,
+        "endMinute": 1080,
+        "building": "MCML",
+        "room": "158",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 330-T1F",
+    "courseCode": "CPSC_V 330",
+    "section": "T1F",
+    "title": "Applied Machine Learning",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 780,
+        "endMinute": 840,
+        "building": "CEME",
+        "room": "1215",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 330-T1G",
+    "courseCode": "CPSC_V 330",
+    "section": "T1G",
+    "title": "Applied Machine Learning",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 840,
+        "endMinute": 900,
+        "building": "ORCH",
+        "room": "3018",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 330-T1H",
+    "courseCode": "CPSC_V 330",
+    "section": "T1H",
+    "title": "Applied Machine Learning",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 600,
+        "endMinute": 660,
+        "building": "LSK",
+        "room": "310",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 330-T1J",
+    "courseCode": "CPSC_V 330",
+    "section": "T1J",
+    "title": "Applied Machine Learning",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 600,
+        "endMinute": 660,
+        "building": "MCLD",
+        "room": "3008",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 330-T1K",
+    "courseCode": "CPSC_V 330",
+    "section": "T1K",
+    "title": "Applied Machine Learning",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          5
+        ],
+        "startMinute": 660,
+        "endMinute": 720,
+        "building": "MCLD",
+        "room": "3014",
+        "startDate": "2026-09-11",
+        "endDate": "2026-12-04"
+      }
+    ]
+  },
+  {
+    "id": "CPSC_V 330-T1L",
+    "courseCode": "CPSC_V 330",
+    "section": "T1L",
+    "title": "Applied Machine Learning",
+    "type": "Discussion",
+    "status": "Open",
+    "deliveryMode": "In Person Learning",
+    "credits": 3,
+    "meetings": [
+      {
+        "days": [
+          4
+        ],
+        "startMinute": 540,
+        "endMinute": 600,
+        "building": "EOS",
+        "room": "135",
+        "startDate": "2026-09-10",
+        "endDate": "2026-12-03"
+      }
+    ]
+  }
+]
