@@ -1,11 +1,11 @@
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 import os
+import json
 
 os.makedirs("responses", exist_ok=True)
 
-# For testing, only get first few pages.
 # 0 = first page, then 50, 100, 150, 200...
-MAX_OFFSET = 200
+MAX_OFFSET = 2000
 PAGE_SIZE = 50
 
 
@@ -18,6 +18,8 @@ def save_response(response, filename):
         f.write(text)
 
     print(f"Saved: {filepath}")
+
+    return text
 
 
 with sync_playwright() as p:
@@ -40,7 +42,6 @@ with sync_playwright() as p:
     ) as search_response_info:
         input(
             "\nNow perform your search in Workday.\n"
-            "For now, use `cpsc` as the test search.\n"
             "After the results appear, press ENTER here.\n"
         )
 
@@ -49,10 +50,25 @@ with sync_playwright() as p:
     print("Got first page:")
     print(search_response.url)
 
-    save_response(search_response, "page_0.json")
+    search_text = save_response(search_response, "page_0.json")
+
+    search_data = json.loads(search_text)
+
+    # First page usually has facetContainer directly.
+    # Pagination pages may wrap it in body, so this handles both.
+    search_body = search_data.get("body", search_data)
+
+    total_count = search_body["facetContainer"]["paginationCount"]["value"]
+
+    last_offset = ((total_count - 1) // PAGE_SIZE) * PAGE_SIZE
+
+    last_offset = min(last_offset, MAX_OFFSET)
+
+    print(f"\nTotal results: {total_count}")
+    print(f"Last offset to capture: {last_offset}")
 
     # Now capture pagination pages by scrolling
-    for offset in range(PAGE_SIZE, MAX_OFFSET + PAGE_SIZE, PAGE_SIZE):
+    for offset in range(PAGE_SIZE, last_offset + PAGE_SIZE, PAGE_SIZE):
         print(f"\nWaiting for pagination/{offset}.htmld...")
 
         try:
